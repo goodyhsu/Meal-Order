@@ -8,7 +8,7 @@ Deployed on Azure with Kubernetes, the app ensures high availability and scalabi
 
 |            |
 |:----------:|
-| ![alt text](imgs/introduction.png) |
+| <img src="imgs/introduction.png" height="300px"/> |
 
 
 
@@ -400,4 +400,4 @@ ContainerLogV2
 
 |            |
 |:----------:|
-| ![alt text](imgs/unit_test.png)|
+| <img src="imgs/unit_test.png" height="300px"/>|
